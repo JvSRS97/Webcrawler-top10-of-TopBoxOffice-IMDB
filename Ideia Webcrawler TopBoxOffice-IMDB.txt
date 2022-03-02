@@ -1,0 +1,5 @@
+URL: https://www.imdb.com/chart/boxoffice/?ref_=nv_ch_cht
+
+Table class: chart full-width
+[tbody] possui 10 [tr]
+Cada [tr] possui 6[td], dos quais nos interessa do 2º-5º [td]
